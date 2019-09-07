@@ -1,6 +1,6 @@
-## Worum geht es hier?
+## Lernen für Schule (und Leben) mit Anki
 
-Dazu ein Video mit einer Einführung in das Vokabel-Lernen mit Anki anhand eines schon existierenden "Kartenstapels" mit Vokabeln:
+Folgendes Video gibt beispielhaft eine Einführung in das Vokabel-Lernen mit Anki:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_5ToYTlcMTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
