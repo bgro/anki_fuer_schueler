@@ -8,7 +8,7 @@ Nützliche Links:
 
 -  [Download von Anki 2.1](https://apps.ankiweb.net/)
 -  [Deutsche Anleitung für Anki](http://www.dennisproksch.de/anki) (leider für Anki 2.0, aber die Unterschiede sind nicht so groß)
--  [Kartenstapel für Französisch](https://ankiweb.net/shared/info/1847876622)
+-  [Kartenstapel für Französisch](https://ankiweb.net/shared/info/1847876622) (Buch Découvertes 1 für Schüler der 6. Klasse, Ausgabe 2017)
 -  Zwei nützliche Erweiterungen für Anki, die im Video erwähnt werden:
    - [Knopf, um Audio nochmal abzuspielen](https://ankiweb.net/shared/info/498789867)
    - [Audio für eigene Karten erstellen](https://ankiweb.net/shared/info/427598962)
