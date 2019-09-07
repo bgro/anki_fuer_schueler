@@ -15,6 +15,6 @@ Nützliche Links:
    
 ## Fragen?
 
-Für Fragen und Anregungen, bitte eine Anfrage ("New Issue") auf Github erstellen: https://github.com/bgro/anki_fuer_schueler/issues. Dazu ist ein Login auf github.com nötig, aber der schadet sowieso nicht.
+Für Fragen und Anregungen, bitte eine Anfrage ("New Issue") auf Github erstellen: [https://github.com/bgro/anki_fuer_schueler/issues]. Dazu ist ein Login auf github.com nötig, aber der schadet sowieso nicht.
 
 
